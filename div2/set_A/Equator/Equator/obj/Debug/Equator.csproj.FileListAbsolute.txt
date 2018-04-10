@@ -1,0 +1,2 @@
+D:\all_languages\codeforces\div2\Equator\Equator\bin\Debug\Equator.exe.config
+D:\all_languages\codeforces\div2\set_A\Equator\Equator\bin\Debug\Equator.exe.config
