@@ -8,6 +8,10 @@ namespace Equator {
     class Program {
         static void Main(string[] args) {
 
+            string days = Console.ReadLine().Trim();
+            string questions = Console.ReadLine().Trim();
+
+            Console.WriteLine(new Equator().GetDay(questions));
         }
     }
 }
