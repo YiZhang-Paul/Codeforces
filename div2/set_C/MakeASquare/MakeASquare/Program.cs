@@ -8,6 +8,9 @@ namespace MakeASquare {
     class Program {
         static void Main(string[] args) {
 
+            string digits = Console.ReadLine().Trim();
+
+            Console.WriteLine(new MakeASquare().MinStep(digits));
         }
     }
 }
