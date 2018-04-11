@@ -1,1 +1,6 @@
 D:\all_languages\codeforces\div2\set_D\MergeEquals\MergeEquals\bin\Debug\MergeEquals.exe.config
+D:\all_languages\codeforces\div2\set_D\MergeEquals\MergeEquals\bin\Debug\MergeEquals.exe
+D:\all_languages\codeforces\div2\set_D\MergeEquals\MergeEquals\bin\Debug\MergeEquals.pdb
+D:\all_languages\codeforces\div2\set_D\MergeEquals\MergeEquals\obj\Debug\MergeEquals.csprojResolveAssemblyReference.cache
+D:\all_languages\codeforces\div2\set_D\MergeEquals\MergeEquals\obj\Debug\MergeEquals.exe
+D:\all_languages\codeforces\div2\set_D\MergeEquals\MergeEquals\obj\Debug\MergeEquals.pdb
