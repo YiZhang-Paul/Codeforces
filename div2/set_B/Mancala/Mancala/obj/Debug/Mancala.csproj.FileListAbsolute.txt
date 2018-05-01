@@ -1,0 +1,5 @@
+D:\all_languages\codeforces\div2\set_B\Mancala\Mancala\bin\Debug\Mancala.exe.config
+D:\all_languages\codeforces\div2\set_B\Mancala\Mancala\bin\Debug\Mancala.exe
+D:\all_languages\codeforces\div2\set_B\Mancala\Mancala\bin\Debug\Mancala.pdb
+D:\all_languages\codeforces\div2\set_B\Mancala\Mancala\obj\Debug\Mancala.exe
+D:\all_languages\codeforces\div2\set_B\Mancala\Mancala\obj\Debug\Mancala.pdb
