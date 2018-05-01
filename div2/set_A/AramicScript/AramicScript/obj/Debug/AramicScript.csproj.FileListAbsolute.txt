@@ -1,1 +1,6 @@
 D:\all_languages\codeforces\div2\set_A\AramicScript\AramicScript\bin\Debug\AramicScript.exe.config
+D:\all_languages\codeforces\div2\set_A\AramicScript\AramicScript\bin\Debug\AramicScript.exe
+D:\all_languages\codeforces\div2\set_A\AramicScript\AramicScript\bin\Debug\AramicScript.pdb
+D:\all_languages\codeforces\div2\set_A\AramicScript\AramicScript\obj\Debug\AramicScript.csprojResolveAssemblyReference.cache
+D:\all_languages\codeforces\div2\set_A\AramicScript\AramicScript\obj\Debug\AramicScript.exe
+D:\all_languages\codeforces\div2\set_A\AramicScript\AramicScript\obj\Debug\AramicScript.pdb
