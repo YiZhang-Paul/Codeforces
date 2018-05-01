@@ -9,8 +9,8 @@ namespace ValhallaSiege {
         static void Main(string[] args) {
 
             var siege = new ValhallaSiege();
-            Console.WriteLine(string.Join("\n", siege.CountDeath("1 2 1 2 1", "3 10 1 1 1")));
-            Console.WriteLine(string.Join("\n", siege.CountDeath("1 2 3 4", "9 1 10 6")));
+            Console.WriteLine(string.Join("\n", siege.CountAliveByMinute("1 2 1 2 1", "3 10 1 1 1")));
+            Console.WriteLine(string.Join("\n", siege.CountAliveByMinute("1 2 3 4", "9 1 10 6")));
         }
     }
 }

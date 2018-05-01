@@ -1,1 +1,6 @@
 D:\all_languages\codeforces\div2\set_C\ValhallaSiege\ValhallaSiege\bin\Debug\ValhallaSiege.exe.config
+D:\all_languages\codeforces\div2\set_C\ValhallaSiege\ValhallaSiege\bin\Debug\ValhallaSiege.exe
+D:\all_languages\codeforces\div2\set_C\ValhallaSiege\ValhallaSiege\bin\Debug\ValhallaSiege.pdb
+D:\all_languages\codeforces\div2\set_C\ValhallaSiege\ValhallaSiege\obj\Debug\ValhallaSiege.csprojResolveAssemblyReference.cache
+D:\all_languages\codeforces\div2\set_C\ValhallaSiege\ValhallaSiege\obj\Debug\ValhallaSiege.exe
+D:\all_languages\codeforces\div2\set_C\ValhallaSiege\ValhallaSiege\obj\Debug\ValhallaSiege.pdb
